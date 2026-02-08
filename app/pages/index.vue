@@ -111,7 +111,7 @@ op zee, in de Eem, in Baarn, desnoods op wielen zodat het steeds ergens anders k
         description="Onze woordvoerder staat jullie graag te woord met woorden, meningen en minimaal drie feiten die achteraf symbolisch bedoeld blijken. Microfoons graag op trilstand, kritische vragen op vliegtuigmodus."
         variant="subtle" :links="[{
           label: 'Stuur ons een suggestieve vraag',
-          to: 'hoogspanninghoogverraad@gmail.com',
+          to: 'mailto:hoogspanninghoogverraad@gmail.com',
           target: '_blank',
           trailingIcon: 'i-lucide-mail',
           color: 'neutral'
